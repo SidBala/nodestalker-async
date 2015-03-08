@@ -1,0 +1,24 @@
+{
+  "name": "nodestalker-async",
+  "version": "1.0.0",
+  "description": "Promises/A+ compatible wrapper for nodestalker",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SidBala/nodestalker-async.git"
+  },
+  "author": "Sid Bala <Sid.Bala@Outlook.com> (http://SidBala.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SidBala/nodestalker-async/issues"
+  },
+  "homepage": "https://github.com/SidBala/nodestalker-async",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "chai": "^2.1.1",
+    "log-colors": "^1.0.0",
+    "nodestalker": "^0.1.17"
+  }
+}
